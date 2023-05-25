@@ -24,3 +24,4 @@ Objectives Achieved:
 
 As the sole developer behind this project, I am proud to have chosen Firebase Firestore as the database solution. Its seamless integration with Flutter allowed for efficient data storage and retrieval. By utilizing Firestore's real-time data synchronization, I ensured that updates made to the database are instantly reflected across all connected devices, providing a seamless and consistent experience for users.
 
+![Login interface](https://github.com/tashendinal/Learning-Management-System-Android-Application/assets/80526793/1d977903-ca43-4eea-87b7-534eff724a96)
