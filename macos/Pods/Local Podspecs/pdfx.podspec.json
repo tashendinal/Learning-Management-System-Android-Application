@@ -1,0 +1,31 @@
+{
+  "name": "pdfx",
+  "version": "1.0.0",
+  "summary": "Flutter Plugin to render a PDF file.",
+  "description": "Flutter Plugin to render a PDF file.\nDownloaded by pub (not CocoaPods).",
+  "homepage": "https://github.com/rbcprolabs/packages.flutter/tree/master/packages/pdfx",
+  "license": {
+    "type": "MIT",
+    "file": "../LICENSE"
+  },
+  "authors": {
+    "Serge Shkurko": "sergeshkurko@outlook.com"
+  },
+  "source": {
+    "http": "https://github.com/rbcprolabs/packages.flutter/tree/master/packages/pdfx"
+  },
+  "source_files": "Classes/**/*",
+  "dependencies": {
+    "FlutterMacOS": [
+
+    ]
+  },
+  "platforms": {
+    "osx": "10.11"
+  },
+  "pod_target_xcconfig": {
+    "DEFINES_MODULE": "YES"
+  },
+  "swift_versions": "5.0",
+  "swift_version": "5.0"
+}
