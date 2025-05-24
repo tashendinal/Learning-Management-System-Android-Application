@@ -1,5 +1,3 @@
 {
-  "projects": {
-    "default": "lms-app-97e1f"
-  }
-}
+  "type": "service_account",
+  "project_id": "lms-app-97e1f",
