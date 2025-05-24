@@ -14,12 +14,13 @@ Future<void> main() async {
   if (kIsWeb) {
     await Firebase.initializeApp(
       options: const FirebaseOptions(
-        apiKey: "YOUR_API_KEY",
-        authDomain: "lms-app-97e1f.firebaseapp.com",
-        projectId: "lms-app-97e1f",
-        storageBucket: "lms-app-97e1f.appspot.com",
-        messagingSenderId: "YOUR_MESSAGING_SENDER_ID",
-        appId: "YOUR_APP_ID",
+          apiKey: "AIzaSyAMQoK1g7YQ3tiD2xbWXOqPX1_4XHuaY58",
+  authDomain: "lms-app-97e1f.firebaseapp.com",
+  projectId: "lms-app-97e1f",
+  storageBucket: "lms-app-97e1f.firebasestorage.app",
+  messagingSenderId: "1003153251570",
+  appId: "1:1003153251570:web:1b1d0e93c1ec798641846b",
+  measurementId: "G-K1M35H6HV1"
       ),
     );
   } else {
